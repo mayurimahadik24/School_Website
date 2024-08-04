@@ -15,7 +15,7 @@ const Home = () => {
       <Introduction/>
       <Carouse/>
       <Quicklinks/>
-      {/* <div ><p>Made by Mayuri</p></div> */}
+      <div ><p>Made by Mayuri</p></div>
     </div>
   );
 }
